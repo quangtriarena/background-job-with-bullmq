@@ -1,0 +1,1 @@
+PUT http://localhost:9000/api/queues/productQueue/clean/completed
